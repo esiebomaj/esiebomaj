@@ -15,10 +15,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ... and lots more
 
-<br>
+## Colaborate
 #### 👯 I’m looking to collaborate on projects so hit me up if you have any ideas :grin:
-<br>
-<br>
+
+## Contact Me
 #### :envelope: want to reach me? be sure to send me a mail (esiebomaj@gmail.com)
 <!--
 **esiebomaj/esiebomaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
