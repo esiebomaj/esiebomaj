@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #### `I am JeremAIh` (ps: <b>AI</b> was intentionally capitalized to mean Artificial Inteligence cause am definitely more than a fan :grin:) <br>I am a software developer. I love building intelligent applications.
-<br>
 
 ## KEY SKILLS
 
