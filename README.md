@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jerem<b>AI</b>h (ps: <b>AI</b> was intentionally capitalized to mean Artificial Inteligence cause am definitely more than a fan :grin:) <br>I am a software developer. I love building intelligent applications.
+### `I am Jerem*AI*h` (ps: <b>AI</b> was intentionally capitalized to mean Artificial Inteligence cause am definitely more than a fan :grin:) <br>I am a software developer. I love building intelligent applications.
 <br>
 <br>
 👯 I’m looking to collaborate on projects so hit me up if you have any ideas :grin:
