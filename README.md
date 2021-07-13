@@ -11,6 +11,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ... and lots more
 
+I am also have experience with 
+* Cloud computing (AWS and  Digital ocean)
+* Linux
+* Docker 
+* Redux
+
+I am open to learn more. I see everyday as an opportunity to learn something new.
 ## COLABORATE
 #### 👯 I’m looking to collaborate on projects so hit me up if you have any ideas :grin:
 
