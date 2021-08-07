@@ -9,9 +9,8 @@
 ![React](https://img.shields.io/badge/-react-%233776AB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-... and lots more
 
-I am also have experience with 
+I also have experience with 
 * Cloud computing (AWS and  Digital ocean)
 * Linux
 * Docker 
