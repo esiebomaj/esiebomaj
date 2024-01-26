@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### `I am JeremAIh` (ps: <b>AI</b> was intentionally capitalized to mean Artificial Inteligence cause am definitely more than a fan :grin:) <br>I am a software developer. I love building intelligent applications.
+#### `I am JeremAIh`
+I am a software developer. I love building intelligent applications in the cloud.
 
 ## KEY SKILLS
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
@@ -11,19 +12,22 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-I also have experience with 
-* Cloud computing (AWS)
-* Linux
-* Docker 
-* Redux
+I have experience with 
+* Python
+* Javascript
+* Go Programming Language
+* Cloud computing (AWS, Azure & GCP)
+* System/Architectural Design
+* Docker
+* Kafka
 * and lots more ...
 
-I am open to learn more. I see everyday as an opportunity to learn something new.
-## COLABORATE
+I am open to learning more. I see every day as an opportunity to learn something new.
+## COLLABORATE
 #### 👯 I’m looking to collaborate on projects so hit me up if you have any ideas :grin:
 
 ## CONTACT ME
-#### :envelope: want to reach me? be sure to send me a mail (esiebomaj@gmail.com)
+#### :envelope: want to reach me? be sure to send me an email (esiebomaj@gmail.com)
 <!--
 **esiebomaj/esiebomaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
