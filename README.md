@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### `I am JeremAIh`
-I am a software developer. I love building intelligent applications in the cloud.
+Experienced software developer. I love building intelligent applications in the cloud.
 
 ## KEY SKILLS
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
