@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### `I am JeremAIh`
-Experienced software developer. I love building intelligent applications in the cloud.
+I am JeremAIh, an experienced software developer. I love building intelligent applications in the cloud.
 
 ## KEY SKILLS
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
@@ -17,6 +16,8 @@ I have experience with
 * Javascript
 * Go Programming Language
 * Cloud computing (AWS, Azure & GCP)
+* Machine Learning & AI (TensorFlow, PyTorch, LLM integration)
+* AI agent development and RAG systems (Langchain, Langraph, etc)
 * System/Architectural Design
 * Docker
 * Kafka
@@ -24,10 +25,10 @@ I have experience with
 
 I am open to learning more. I see every day as an opportunity to learn something new.
 ## COLLABORATE
-#### 👯 I’m looking to collaborate on projects so hit me up if you have any ideas :grin:
+#### 👯 I’m looking to collaborate on projects, so hit me up if you have any ideas :grin:
 
 ## CONTACT ME
-#### :envelope: want to reach me? be sure to send me an email (esiebomaj@gmail.com)
+#### :envelope: want to reach me? Be sure to send me an email (esiebomaj@gmail.com)
 <!--
 **esiebomaj/esiebomaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
