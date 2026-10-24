@@ -23,7 +23,7 @@ I have experience with
 * Kafka
 * and lots more ...
 
-I am open to learning more. I see every day as an opportunity to learn something new.
+....open to learning more....
 ## COLLABORATE
 #### 👯 I’m looking to collaborate on projects, so hit me up if you have any ideas :grin:
 
